@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{464251A0-3667-42BA-A3D5-0581D65C442B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataStructures</RootNamespace>
+    <AssemblyName>DataStrcutres</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Others\CuckooHashTable.cs" />
+    <Compile Include="3.Dictionaries\2.OpenScatterHashTable.cs" />
+    <Compile Include="Others\UniversalHashingFamily.cs" />
+    <Compile Include="2.HashTable\3.DoubleHashTable.cs" />
+    <Compile Include="2.HashTable\Helpers\HashTableItem.cs" />
+    <Compile Include="2.HashTable\2.HashTableWithLinkedList.cs" />
+    <Compile Include="2.HashTable\Helpers\IHashTable.cs" />
+    <Compile Include="2.HashTable\1.LinearHashTable.cs" />
+    <Compile Include="2.HashTable\Helpers\PrimeList.cs" />
+    <Compile Include="2.HashTable\4.QuadraticHashTable.cs" />
+    <Compile Include="5.Heaps\3.BinomialMinHeap.cs" />
+    <Compile Include="Others\SkipList.cs" />
+    <Compile Include="Others\SkipListNode.cs" />
+    <Compile Include="Others\AugmentedBinarySearchTree.cs" />
+    <Compile Include="Others\AVLTree.cs" />
+    <Compile Include="Others\AVLTreeNode.cs" />
+    <Compile Include="4.Trees\1.BinarySearchTree.cs" />
+    <Compile Include="4.Trees\Helpers\BinarySearchTreeNode.cs" />
+    <Compile Include="4.Trees\Helpers\IBinarySearchTree.cs" />
+    <Compile Include="5.Heaps\Helpers\IMaxHeap.cs" />
+    <Compile Include="5.Heaps\Helpers\IMinHeap.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="1.Lists\3.Stack.cs" />
+    <Compile Include="1.Lists\1.ArrayList.cs" />
+    <Compile Include="1.Lists\5.DLinkedList.cs" />
+    <Compile Include="1.Lists\4.SLinkedList.cs" />
+    <Compile Include="1.Lists\2.Queue.cs" />
+    <Compile Include="5.Heaps\1.BinaryMinHeap.cs" />
+    <Compile Include="5.Heaps\2.BinaryMaxHeap.cs" />
+    <Compile Include="Common\Helpers.cs" />
+    <Compile Include="6.PriorityQueue\2.KeyedPriorityQueue.cs" />
+    <Compile Include="6.PriorityQueue\1.MinPriorityQueue.cs" />
+    <Compile Include="Common\Comparers.cs" />
+    <Compile Include="Others\RedBlackTree.cs" />
+    <Compile Include="Others\RedBlackTreeNode.cs" />
+    <Compile Include="Others\TreeDrawer.cs" />
+    <Compile Include="3.Dictionaries\1.ChainedHashTable.cs" />
+    <Compile Include="3.Dictionaries\Helpers\DLinkedList_KeyValue.cs" />
+    <Compile Include="Common\PrimesList.cs" />
+    <Compile Include="4.Trees\3.Trie.cs" />
+    <Compile Include="4.Trees\4.TrieMap.cs" />
+    <Compile Include="4.Trees\Helpers\TrieMapNode.cs" />
+    <Compile Include="4.Trees\Helpers\TrieNode.cs" />
+    <Compile Include="Others\SortedCollections\SortedList.cs" />
+    <Compile Include="Others\SortedCollections\SortedDictionary.cs" />
+    <Compile Include="Others\RedBlackTreeMap.cs" />
+    <Compile Include="Others\RedBlackTreeMapNode.cs" />
+    <Compile Include="4.Trees\Helpers\BinarySearchTreeMapNode.cs" />
+    <Compile Include="4.Trees\2.BinarySearchTreeMap.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <None Include="Data\PrimesDocument_10K.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\PrimesDocument_10K.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup />
+</Project>

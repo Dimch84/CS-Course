@@ -1,0 +1,11 @@
+C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\Algorithms\bin\Debug\Data\PrimesDocument_10K.txt
+C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\Algorithms\bin\Debug\Data\PrimesDocument_10K.csv
+C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\Algorithms\bin\Debug\DataStrcutres.dll
+C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\Algorithms\bin\Debug\DataStrcutres.pdb
+C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\Algorithms\obj\Debug\Algorithms.csproj.CopyComplete
+C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\Algorithms\obj\Debug\Algorithms.pdb

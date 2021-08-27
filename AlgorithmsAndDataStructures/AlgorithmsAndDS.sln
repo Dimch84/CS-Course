@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{464251A0-3667-42BA-A3D5-0581D65C442B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{8F59D573-A1B8-438F-A67A-A7F11FACF201}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "UnitTest\UnitTest.csproj", "{21149908-B093-46DE-8813-9C3FD7A8ACED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464251A0-3667-42BA-A3D5-0581D65C442B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464251A0-3667-42BA-A3D5-0581D65C442B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464251A0-3667-42BA-A3D5-0581D65C442B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464251A0-3667-42BA-A3D5-0581D65C442B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F59D573-A1B8-438F-A67A-A7F11FACF201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F59D573-A1B8-438F-A67A-A7F11FACF201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F59D573-A1B8-438F-A67A-A7F11FACF201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F59D573-A1B8-438F-A67A-A7F11FACF201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21149908-B093-46DE-8813-9C3FD7A8ACED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21149908-B093-46DE-8813-9C3FD7A8ACED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21149908-B093-46DE-8813-9C3FD7A8ACED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21149908-B093-46DE-8813-9C3FD7A8ACED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA411D4-82A4-458B-8586-DF2F82C1F213}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.IndentBlocksInsideExpressions = True
+		$2.AnonymousMethodBraceStyle = NextLine
+		$2.PropertyBraceStyle = NextLine
+		$2.PropertyGetBraceStyle = NextLine
+		$2.PropertySetBraceStyle = NextLine
+		$2.EventBraceStyle = NextLine
+		$2.EventAddBraceStyle = NextLine
+		$2.EventRemoveBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.ElseNewLinePlacement = NewLine
+		$2.CatchNewLinePlacement = NewLine
+		$2.FinallyNewLinePlacement = NewLine
+		$2.WhileNewLinePlacement = DoNotCare
+		$2.ArrayInitializerWrapping = DoNotChange
+		$2.ArrayInitializerBraceStyle = NextLine
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.NewLineBeforeConstructorInitializerColon = NewLine
+		$2.NewLineAfterConstructorInitializerColon = SameLine
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.NewParentheses = False
+		$2.SpacesBeforeBrackets = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = f7178bdb-e6ee-479b-8876-5fd96edf50a4
+	EndGlobalSection
+EndGlobal
