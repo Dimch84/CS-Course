@@ -1,0 +1,7 @@
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo\bin\Debug\EventsAndDelegatesPubSubDemo.exe.config
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo\bin\Debug\EventsAndDelegatesPubSubDemo.exe
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo\bin\Debug\EventsAndDelegatesPubSubDemo.pdb
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo\obj\Debug\EventsAndDelegatesPubSubDemo.csprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo\obj\Debug\EventsAndDelegatesPubSubDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo\obj\Debug\EventsAndDelegatesPubSubDemo.exe
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo-master\EventsAndDelegatesPubSubDemo\obj\Debug\EventsAndDelegatesPubSubDemo.pdb

@@ -1,0 +1,14 @@
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\ConsoleKeyEvent\bin\Debug\ConsoleKeyEvent.exe.config
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\ConsoleKeyEvent\bin\Debug\ConsoleKeyEvent.exe
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\ConsoleKeyEvent\bin\Debug\ConsoleKeyEvent.pdb
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\ConsoleKeyEvent\obj\Debug\ConsoleKeyEvent.csprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\ConsoleKeyEvent\obj\Debug\ConsoleKeyEvent.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\ConsoleKeyEvent\obj\Debug\ConsoleKeyEvent.exe
+C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\ConsoleKeyEvent\obj\Debug\ConsoleKeyEvent.pdb
+C:\MKN\Practice5\EventDelegateExamples\ConsoleKeyEvent\bin\Debug\ConsoleKeyEvent.exe.config
+C:\MKN\Practice5\EventDelegateExamples\ConsoleKeyEvent\bin\Debug\ConsoleKeyEvent.exe
+C:\MKN\Practice5\EventDelegateExamples\ConsoleKeyEvent\bin\Debug\ConsoleKeyEvent.pdb
+C:\MKN\Practice5\EventDelegateExamples\ConsoleKeyEvent\obj\Debug\ConsoleKeyEvent.csprojAssemblyReference.cache
+C:\MKN\Practice5\EventDelegateExamples\ConsoleKeyEvent\obj\Debug\ConsoleKeyEvent.csproj.CoreCompileInputs.cache
+C:\MKN\Practice5\EventDelegateExamples\ConsoleKeyEvent\obj\Debug\ConsoleKeyEvent.exe
+C:\MKN\Practice5\EventDelegateExamples\ConsoleKeyEvent\obj\Debug\ConsoleKeyEvent.pdb
