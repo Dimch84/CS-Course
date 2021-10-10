@@ -1,0 +1,11 @@
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.deps.json
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.runtimeconfig.json
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.runtimeconfig.dev.json
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.dll
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.pdb
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.AssemblyInfoInputs.cache
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.AssemblyInfo.cs
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.dll
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.pdb
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.genruntimeconfig.cache

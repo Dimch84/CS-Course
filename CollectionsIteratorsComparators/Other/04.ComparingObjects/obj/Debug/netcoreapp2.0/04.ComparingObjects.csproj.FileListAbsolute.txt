@@ -1,0 +1,11 @@
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\04.ComparingObjects\bin\Debug\netcoreapp2.0\04.ComparingObjects.deps.json
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\04.ComparingObjects\bin\Debug\netcoreapp2.0\04.ComparingObjects.runtimeconfig.json
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\04.ComparingObjects\bin\Debug\netcoreapp2.0\04.ComparingObjects.runtimeconfig.dev.json
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\04.ComparingObjects\bin\Debug\netcoreapp2.0\04.ComparingObjects.dll
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\04.ComparingObjects\bin\Debug\netcoreapp2.0\04.ComparingObjects.pdb
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\04.ComparingObjects\obj\Debug\netcoreapp2.0\04.ComparingObjects.AssemblyInfoInputs.cache
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\04.ComparingObjects\obj\Debug\netcoreapp2.0\04.ComparingObjects.AssemblyInfo.cs
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\04.ComparingObjects\obj\Debug\netcoreapp2.0\04.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\04.ComparingObjects\obj\Debug\netcoreapp2.0\04.ComparingObjects.dll
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\04.ComparingObjects\obj\Debug\netcoreapp2.0\04.ComparingObjects.pdb
+C:\MKN\Practice6\CollectionsIteratorsComparators\Other\04.ComparingObjects\obj\Debug\netcoreapp2.0\04.ComparingObjects.genruntimeconfig.cache

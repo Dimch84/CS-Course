@@ -1,0 +1,13 @@
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\bin\Debug\netcoreapp3.1\04.BookComparer.exe
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\bin\Debug\netcoreapp3.1\04.BookComparer.deps.json
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\bin\Debug\netcoreapp3.1\04.BookComparer.runtimeconfig.json
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\bin\Debug\netcoreapp3.1\04.BookComparer.runtimeconfig.dev.json
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\bin\Debug\netcoreapp3.1\04.BookComparer.dll
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\bin\Debug\netcoreapp3.1\04.BookComparer.pdb
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\obj\Debug\netcoreapp3.1\04.BookComparer.csprojAssemblyReference.cache
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\obj\Debug\netcoreapp3.1\04.BookComparer.AssemblyInfoInputs.cache
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\obj\Debug\netcoreapp3.1\04.BookComparer.AssemblyInfo.cs
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\obj\Debug\netcoreapp3.1\04.BookComparer.csproj.CoreCompileInputs.cache
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\obj\Debug\netcoreapp3.1\04.BookComparer.dll
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\obj\Debug\netcoreapp3.1\04.BookComparer.pdb
+C:\MKN\Practice6\CollectionsIteratorsComparators\04.BookComparer\obj\Debug\netcoreapp3.1\04.BookComparer.genruntimeconfig.cache
