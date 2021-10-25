@@ -1,0 +1,7 @@
+C:\Users\Dmitry\Desktop\va\Video\1.4.StringsExceptions\CollExcStr\Samples\bin\Debug\Samples.exe.config
+C:\Users\Dmitry\Desktop\va\Video\1.4.StringsExceptions\CollExcStr\Samples\bin\Debug\Samples.exe
+C:\Users\Dmitry\Desktop\va\Video\1.4.StringsExceptions\CollExcStr\Samples\bin\Debug\Samples.pdb
+C:\Users\Dmitry\Desktop\va\Video\1.4.StringsExceptions\CollExcStr\Samples\obj\Debug\Samples.csprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\va\Video\1.4.StringsExceptions\CollExcStr\Samples\obj\Debug\Samples.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\va\Video\1.4.StringsExceptions\CollExcStr\Samples\obj\Debug\Samples.exe
+C:\Users\Dmitry\Desktop\va\Video\1.4.StringsExceptions\CollExcStr\Samples\obj\Debug\Samples.pdb
