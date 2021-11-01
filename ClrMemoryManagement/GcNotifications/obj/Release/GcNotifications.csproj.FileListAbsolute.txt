@@ -1,0 +1,6 @@
+C:\MKN\Practice9. GC\ClrMemoryManagement\GcNotifications\bin\Release\GcNotifications.exe.config
+C:\MKN\Practice9. GC\ClrMemoryManagement\GcNotifications\bin\Release\GcNotifications.exe
+C:\MKN\Practice9. GC\ClrMemoryManagement\GcNotifications\bin\Release\GcNotifications.pdb
+C:\MKN\Practice9. GC\ClrMemoryManagement\GcNotifications\obj\Release\GcNotifications.csproj.CoreCompileInputs.cache
+C:\MKN\Practice9. GC\ClrMemoryManagement\GcNotifications\obj\Release\GcNotifications.exe
+C:\MKN\Practice9. GC\ClrMemoryManagement\GcNotifications\obj\Release\GcNotifications.pdb

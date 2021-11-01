@@ -1,0 +1,6 @@
+C:\MKN\Practice9. GC\ClrMemoryManagement\Generations\bin\Debug\Generations.exe.config
+C:\MKN\Practice9. GC\ClrMemoryManagement\Generations\bin\Debug\Generations.exe
+C:\MKN\Practice9. GC\ClrMemoryManagement\Generations\bin\Debug\Generations.pdb
+C:\MKN\Practice9. GC\ClrMemoryManagement\Generations\obj\Debug\Generations.csproj.CoreCompileInputs.cache
+C:\MKN\Practice9. GC\ClrMemoryManagement\Generations\obj\Debug\Generations.exe
+C:\MKN\Practice9. GC\ClrMemoryManagement\Generations\obj\Debug\Generations.pdb

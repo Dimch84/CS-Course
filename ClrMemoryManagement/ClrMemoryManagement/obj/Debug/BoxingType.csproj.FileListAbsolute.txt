@@ -1,0 +1,6 @@
+C:\MKN\Practice9. GC\ClrMemoryManagement\ClrMemoryManagement\bin\Debug\ClrMemoryManagement.exe.config
+C:\MKN\Practice9. GC\ClrMemoryManagement\ClrMemoryManagement\bin\Debug\ClrMemoryManagement.exe
+C:\MKN\Practice9. GC\ClrMemoryManagement\ClrMemoryManagement\bin\Debug\ClrMemoryManagement.pdb
+C:\MKN\Practice9. GC\ClrMemoryManagement\ClrMemoryManagement\obj\Debug\BoxingType.csproj.CoreCompileInputs.cache
+C:\MKN\Practice9. GC\ClrMemoryManagement\ClrMemoryManagement\obj\Debug\ClrMemoryManagement.exe
+C:\MKN\Practice9. GC\ClrMemoryManagement\ClrMemoryManagement\obj\Debug\ClrMemoryManagement.pdb
