@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<DummyCustomer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CustomerID="00000000-0000-0000-0000-000000000000">
+  <CustomerFirstName xmlns="http://www.testnamespace.com">John</CustomerFirstName>
+  <CustomerLastName xmlns="http://www.testnamespace.com">Doe</CustomerLastName>
+  <ContactNumbers xmlns="http://www.testnamespace.com">
+    <Number>123-123-1234</Number>
+    <Number>321-654-5876</Number>
+  </ContactNumbers>
+</DummyCustomer>

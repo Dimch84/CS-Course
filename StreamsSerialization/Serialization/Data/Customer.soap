@@ -1,0 +1,23 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Customer id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/DataSerialization/Data%20Serialization%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_FirstName id="ref-3">John</_FirstName>
+<_LastName id="ref-4">Doe</_LastName>
+<_SSN id="ref-5">123456789</_SSN>
+<_ID>
+<_a>0</_a>
+<_b>0</_b>
+<_c>0</_c>
+<_d>0</_d>
+<_e>0</_e>
+<_f>0</_f>
+<_g>0</_g>
+<_h>0</_h>
+<_i>0</_i>
+<_j>0</_j>
+<_k>0</_k>
+</_ID>
+<_PhoneNumbers xsi:null="1"/>
+</a1:Customer>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
