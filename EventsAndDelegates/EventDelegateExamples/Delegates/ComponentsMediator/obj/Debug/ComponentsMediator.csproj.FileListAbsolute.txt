@@ -1,6 +1,0 @@
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\ComponentsMediator\bin\Debug\ComponentsMediator.dll
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\ComponentsMediator\bin\Debug\ComponentsMediator.pdb
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\ComponentsMediator\obj\Debug\ComponentsMediator.csprojAssemblyReference.cache
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\ComponentsMediator\obj\Debug\ComponentsMediator.csproj.CoreCompileInputs.cache
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\ComponentsMediator\obj\Debug\ComponentsMediator.dll
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\ComponentsMediator\obj\Debug\ComponentsMediator.pdb

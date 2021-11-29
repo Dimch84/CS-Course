@@ -1,7 +1,0 @@
-C:\MKN\Practice9. GC\ClrMemoryManagement\FinalizationTimer\bin\Debug\FinalizationTimer.exe.config
-C:\MKN\Practice9. GC\ClrMemoryManagement\FinalizationTimer\bin\Debug\FinalizationTimer.exe
-C:\MKN\Practice9. GC\ClrMemoryManagement\FinalizationTimer\bin\Debug\FinalizationTimer.pdb
-C:\MKN\Practice9. GC\ClrMemoryManagement\FinalizationTimer\obj\Debug\FinalizationTimer.csprojAssemblyReference.cache
-C:\MKN\Practice9. GC\ClrMemoryManagement\FinalizationTimer\obj\Debug\FinalizationTimer.csproj.CoreCompileInputs.cache
-C:\MKN\Practice9. GC\ClrMemoryManagement\FinalizationTimer\obj\Debug\FinalizationTimer.exe
-C:\MKN\Practice9. GC\ClrMemoryManagement\FinalizationTimer\obj\Debug\FinalizationTimer.pdb

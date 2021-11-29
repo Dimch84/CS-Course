@@ -1,7 +1,0 @@
-C:\MKN\Practice9. GC\ClrMemoryManagement\StringBuilder\bin\Debug\StringBuilder.exe.config
-C:\MKN\Practice9. GC\ClrMemoryManagement\StringBuilder\bin\Debug\StringBuilder.exe
-C:\MKN\Practice9. GC\ClrMemoryManagement\StringBuilder\bin\Debug\StringBuilder.pdb
-C:\MKN\Practice9. GC\ClrMemoryManagement\StringBuilder\obj\Debug\StringBuilderExample.csprojAssemblyReference.cache
-C:\MKN\Practice9. GC\ClrMemoryManagement\StringBuilder\obj\Debug\StringBuilderExample.csproj.CoreCompileInputs.cache
-C:\MKN\Practice9. GC\ClrMemoryManagement\StringBuilder\obj\Debug\StringBuilder.exe
-C:\MKN\Practice9. GC\ClrMemoryManagement\StringBuilder\obj\Debug\StringBuilder.pdb

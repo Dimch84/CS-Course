@@ -1,7 +1,0 @@
-C:\MKN\Practice5\EventDelegateExamples\ComposedMission\bin\Debug\Excercise_1.exe.config
-C:\MKN\Practice5\EventDelegateExamples\ComposedMission\bin\Debug\Excercise_1.exe
-C:\MKN\Practice5\EventDelegateExamples\ComposedMission\bin\Debug\Excercise_1.pdb
-C:\MKN\Practice5\EventDelegateExamples\ComposedMission\obj\Debug\ComposedMission.csprojAssemblyReference.cache
-C:\MKN\Practice5\EventDelegateExamples\ComposedMission\obj\Debug\ComposedMission.csproj.CoreCompileInputs.cache
-C:\MKN\Practice5\EventDelegateExamples\ComposedMission\obj\Debug\Excercise_1.exe
-C:\MKN\Practice5\EventDelegateExamples\ComposedMission\obj\Debug\Excercise_1.pdb

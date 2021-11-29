@@ -1,8 +1,0 @@
-C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\DataStructures\bin\Debug\Data\PrimesDocument_10K.txt
-C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\DataStructures\bin\Debug\Data\PrimesDocument_10K.csv
-C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\DataStructures\bin\Debug\DataStrcutres.dll
-C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\DataStructures\bin\Debug\DataStrcutres.pdb
-C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\DataStructures\obj\Debug\DataStructures.csprojAssemblyReference.cache
-C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
-C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\DataStructures\obj\Debug\DataStrcutres.dll
-C:\Users\Dmitry\Desktop\mkn\C#Course\Sources\AlgorithmsAndDataStructures\DataStructures\obj\Debug\DataStrcutres.pdb

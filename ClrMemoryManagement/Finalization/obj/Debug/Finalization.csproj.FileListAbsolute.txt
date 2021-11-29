@@ -1,7 +1,0 @@
-C:\MKN\Practice9. GC\ClrMemoryManagement\Finalization\bin\Debug\Finalization.exe.config
-C:\MKN\Practice9. GC\ClrMemoryManagement\Finalization\bin\Debug\Finalization.exe
-C:\MKN\Practice9. GC\ClrMemoryManagement\Finalization\bin\Debug\Finalization.pdb
-C:\MKN\Practice9. GC\ClrMemoryManagement\Finalization\obj\Debug\Finalization.csprojAssemblyReference.cache
-C:\MKN\Practice9. GC\ClrMemoryManagement\Finalization\obj\Debug\Finalization.csproj.CoreCompileInputs.cache
-C:\MKN\Practice9. GC\ClrMemoryManagement\Finalization\obj\Debug\Finalization.exe
-C:\MKN\Practice9. GC\ClrMemoryManagement\Finalization\obj\Debug\Finalization.pdb

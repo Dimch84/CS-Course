@@ -1,9 +1,0 @@
-C:\MKN\Practice3\Generics0\obj\Debug\GenericsPerfs.TestClient.resources
-C:\MKN\Practice3\Generics0\obj\Debug\Generics.csproj.GenerateResource.cache
-C:\MKN\Practice3\Generics0\obj\Debug\Generics.csproj.CoreCompileInputs.cache
-C:\MKN\Practice3\Generics0\bin\Debug\Generics.exe.config
-C:\MKN\Practice3\Generics0\bin\Debug\Generics.exe
-C:\MKN\Practice3\Generics0\bin\Debug\Generics.pdb
-C:\MKN\Practice3\Generics0\obj\Debug\Generics.csprojAssemblyReference.cache
-C:\MKN\Practice3\Generics0\obj\Debug\Generics.exe
-C:\MKN\Practice3\Generics0\obj\Debug\Generics.pdb

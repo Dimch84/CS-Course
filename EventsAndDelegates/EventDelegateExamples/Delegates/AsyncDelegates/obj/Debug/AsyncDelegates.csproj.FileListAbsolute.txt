@@ -1,6 +1,0 @@
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\AsyncDelegates\bin\Debug\AsyncDelegates.dll
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\AsyncDelegates\bin\Debug\AsyncDelegates.pdb
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\AsyncDelegates\obj\Debug\AsyncDelegates.csprojAssemblyReference.cache
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\AsyncDelegates\obj\Debug\AsyncDelegates.csproj.CoreCompileInputs.cache
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\AsyncDelegates\obj\Debug\AsyncDelegates.dll
-C:\Users\Dmitry\Desktop\va\Video\1.2.EventsDelegates\DemoSrc\EventDelegatExamples\Delegates\AsyncDelegates\obj\Debug\AsyncDelegates.pdb
