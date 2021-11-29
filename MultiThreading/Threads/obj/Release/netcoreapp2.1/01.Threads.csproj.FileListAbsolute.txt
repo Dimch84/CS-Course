@@ -1,0 +1,15 @@
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\bin\Release\netcoreapp2.1\Threads.deps.json
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\bin\Release\netcoreapp2.1\Threads.runtimeconfig.json
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\bin\Release\netcoreapp2.1\Threads.runtimeconfig.dev.json
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\bin\Release\netcoreapp2.1\Threads.dll
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\bin\Release\netcoreapp2.1\Threads.pdb
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\bin\Release\netcoreapp2.1\CommonNetStandard.dll
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\bin\Release\netcoreapp2.1\CommonNetStandard.pdb
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\obj\Release\netcoreapp2.1\01.Threads.csprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\obj\Release\netcoreapp2.1\01.Threads.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\obj\Release\netcoreapp2.1\01.Threads.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\obj\Release\netcoreapp2.1\01.Threads.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\obj\Release\netcoreapp2.1\01.Threads.csproj.CopyComplete
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\obj\Release\netcoreapp2.1\Threads.dll
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\obj\Release\netcoreapp2.1\Threads.pdb
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Threads\obj\Release\netcoreapp2.1\01.Threads.genruntimeconfig.cache

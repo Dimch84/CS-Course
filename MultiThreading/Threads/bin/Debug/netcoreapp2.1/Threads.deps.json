@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Threads/1.0.0": {
+        "dependencies": {
+          "CommonNetStandard": "1.0.0"
+        },
+        "runtime": {
+          "Threads.dll": {}
+        }
+      },
+      "CommonNetStandard/1.0.0": {
+        "runtime": {
+          "CommonNetStandard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Threads/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonNetStandard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

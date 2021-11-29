@@ -1,0 +1,15 @@
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\bin\Release\netcoreapp2.1\Mutex.deps.json
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\bin\Release\netcoreapp2.1\Mutex.runtimeconfig.json
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\bin\Release\netcoreapp2.1\Mutex.runtimeconfig.dev.json
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\bin\Release\netcoreapp2.1\Mutex.dll
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\bin\Release\netcoreapp2.1\Mutex.pdb
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\bin\Release\netcoreapp2.1\CommonNetStandard.dll
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\bin\Release\netcoreapp2.1\CommonNetStandard.pdb
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\obj\Release\netcoreapp2.1\02.Mutex.csprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\obj\Release\netcoreapp2.1\02.Mutex.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\obj\Release\netcoreapp2.1\02.Mutex.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\obj\Release\netcoreapp2.1\02.Mutex.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\obj\Release\netcoreapp2.1\02.Mutex.csproj.CopyComplete
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\obj\Release\netcoreapp2.1\Mutex.dll
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\obj\Release\netcoreapp2.1\Mutex.pdb
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\Mutex\obj\Release\netcoreapp2.1\02.Mutex.genruntimeconfig.cache

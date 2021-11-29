@@ -1,0 +1,9 @@
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\CommonNetStandard\bin\Release\netstandard2.0\CommonNetStandard.deps.json
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\CommonNetStandard\bin\Release\netstandard2.0\CommonNetStandard.dll
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\CommonNetStandard\bin\Release\netstandard2.0\CommonNetStandard.pdb
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\CommonNetStandard\obj\Release\netstandard2.0\CommonNetStandard.csprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\CommonNetStandard\obj\Release\netstandard2.0\CommonNetStandard.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\CommonNetStandard\obj\Release\netstandard2.0\CommonNetStandard.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\CommonNetStandard\obj\Release\netstandard2.0\CommonNetStandard.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\CommonNetStandard\obj\Release\netstandard2.0\CommonNetStandard.dll
+C:\Users\Dmitry\Desktop\va\Video\DONE\2.1.Multithreading\MultiThreadingNetCore\CommonNetStandard\obj\Release\netstandard2.0\CommonNetStandard.pdb
