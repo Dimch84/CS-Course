@@ -8,16 +8,16 @@ using ComponentsMediator;
 
 namespace DelegatesIntro
 {
-	public delegate int IntegerOperationDelegate(int first, int second);
+    public delegate int IntegerOperationDelegate(int first, int second);
 
-	class Program
-	{
-		public delegate void WorldSavedHandler(string saviourName, DateTime dateForNextCatastrophy);
-		public delegate string SomeoneJustShoutedHandler(string who, DateTime when);
-		public event WorldSavedHandler WorldHasBeenSaved;
-		
-		static void Main(string[] args)
-		{
+    class Program
+    {
+        public delegate void WorldSavedHandler(string saviourName, DateTime dateForNextCatastrophy);
+        public delegate string SomeoneJustShoutedHandler(string who, DateTime when);
+        public event WorldSavedHandler WorldHasBeenSaved;
+        
+        static void Main(string[] args)
+        {
             // Case 1
             AsynchronousProcessSimulation asyncSimulation = new AsynchronousProcessSimulation();
             asyncSimulation.StartReporting();
@@ -111,69 +111,69 @@ namespace DelegatesIntro
             superman.SaveTheWorld("Superman", DateTime.UtcNow.AddMonths(3));
 
             Console.ReadKey();
-		}
+        }
 
-		private static double MatchingFuncOfT(int first, int second)
-		{
-			return first / second;
-		}
+        private static double MatchingFuncOfT(int first, int second)
+        {
+            return first / second;
+        }
 
-		private static void MatchingActionOfT(string inputs)
-		{
-			Console.WriteLine(inputs);
-		}
+        private static void MatchingActionOfT(string inputs)
+        {
+            Console.WriteLine(inputs);
+        }
 
-		static void superman_WorldSavingCompleted(object sender, WorldSavingCompletedEventArgs e)
-		{
-			StringBuilder superHeroMessageBuilder = new StringBuilder();
-			superHeroMessageBuilder.Append("Superhero has saved the world! Name: ").Append(e.Saviour)
-				.Append(", time spent saving the world: ").Append(e.HoursItTookToSaveWorld).Append(", message from the superhero: ")
-				.Append(e.MessageFromSaviour);
-			Console.WriteLine(superHeroMessageBuilder.ToString());
-		}
+        static void superman_WorldSavingCompleted(object sender, WorldSavingCompletedEventArgs e)
+        {
+            StringBuilder superHeroMessageBuilder = new StringBuilder();
+            superHeroMessageBuilder.Append("Superhero has saved the world! Name: ").Append(e.Saviour)
+                .Append(", time spent saving the world: ").Append(e.HoursItTookToSaveWorld).Append(", message from the superhero: ")
+                .Append(e.MessageFromSaviour);
+            Console.WriteLine(superHeroMessageBuilder.ToString());
+        }
 
-		static void superman_WorldSaved(object sender, WorldSavedEventArgs e)
-		{
-			StringBuilder superHeroMessageBuilder = new StringBuilder();
-			superHeroMessageBuilder.Append("Superhero reporting progress! Name: ")
-				.Append(e.SaviourName).Append(", has been working for ").Append(e.WorkHasBeenOngoingHs)
-				.Append(" hours, ").Append(" date of next occasion: ").Append(e.DateOfNextCatastrophy);
-			Console.WriteLine(superHeroMessageBuilder.ToString());
-		}
+        static void superman_WorldSaved(object sender, WorldSavedEventArgs e)
+        {
+            StringBuilder superHeroMessageBuilder = new StringBuilder();
+            superHeroMessageBuilder.Append("Superhero reporting progress! Name: ")
+                .Append(e.SaviourName).Append(", has been working for ").Append(e.WorkHasBeenOngoingHs)
+                .Append(" hours, ").Append(" date of next occasion: ").Append(e.DateOfNextCatastrophy);
+            Console.WriteLine(superHeroMessageBuilder.ToString());
+        }
 
-		static string SomeoneShouted(string who, DateTime when)
-		{
-			return string.Concat(who , " has shout on ", when);
-		}
+        static string SomeoneShouted(string who, DateTime when)
+        {
+            return string.Concat(who , " has shout on ", when);
+        }
 
-		static string SomeoneShoutedAgain(string who, DateTime when)
-		{
-			return string.Concat(who, " has shouted on ", when);
-		}
+        static string SomeoneShoutedAgain(string who, DateTime when)
+        {
+            return string.Concat(who, " has shouted on ", when);
+        }
 
-		static string SomeoneShoutedOnceMore(string who, DateTime when)
-		{
-			return string.Concat(who, " has shouted once more on ", when);
-		}
+        static string SomeoneShoutedOnceMore(string who, DateTime when)
+        {
+            return string.Concat(who, " has shouted once more on ", when);
+        }
 
-		static void SaveWorld(WorldSavedHandler worldSaved)
-		{
-			worldSaved("Bruce Willis", DateTime.UtcNow.AddMonths(5));
-		}
+        static void SaveWorld(WorldSavedHandler worldSaved)
+        {
+            worldSaved("Bruce Willis", DateTime.UtcNow.AddMonths(5));
+        }
 
-		static void WorldSaved(string saviour, DateTime nextTime)
-		{
-			Console.WriteLine(string.Concat("World saved by ", saviour, ", get ready again by ", nextTime));
-		}
+        static void WorldSaved(string saviour, DateTime nextTime)
+        {
+            Console.WriteLine(string.Concat("World saved by ", saviour, ", get ready again by ", nextTime));
+        }
 
-		static void WorldSavedOnceMore(string saviour, DateTime nextTime)
-		{
-			Console.WriteLine(string.Concat("World saved once again by ", saviour, ", get ready again by ", nextTime));
-		}
+        static void WorldSavedOnceMore(string saviour, DateTime nextTime)
+        {
+            Console.WriteLine(string.Concat("World saved once again by ", saviour, ", get ready again by ", nextTime));
+        }
 
-		static void WorldSavedAgain(string saviour, DateTime nextTime)
-		{
-			Console.WriteLine(string.Concat("World saved this time by ", saviour, ", get ready again by ", nextTime));
-		}
-	}
+        static void WorldSavedAgain(string saviour, DateTime nextTime)
+        {
+            Console.WriteLine(string.Concat("World saved this time by ", saviour, ", get ready again by ", nextTime));
+        }
+    }
 }

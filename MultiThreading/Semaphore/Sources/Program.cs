@@ -14,8 +14,8 @@ namespace Lectures
                     semaphoreOrder.Run();
                 }
 
+                using (SemaphoreCheckReleaseExample example = new SemaphoreCheckReleaseExample()) 
                 {
-                    SemaphoreCheckReleaseExample example = new SemaphoreCheckReleaseExample();
                     example.Run();
                 }
 

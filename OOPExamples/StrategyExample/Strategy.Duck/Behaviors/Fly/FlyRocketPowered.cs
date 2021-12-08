@@ -2,18 +2,18 @@ using System;
 
 namespace Strategy.Duck
 {
-	/// <summary>
-	/// FlyRocketPowered
-	/// </summary>
-	public class FlyRocketPowered : IFlyBehavior
-	{
-		#region IFlyBehavior Members
+    /// <summary>
+    /// FlyRocketPowered
+    /// </summary>
+    public class FlyRocketPowered : IFlyBehavior
+    {
+        #region IFlyBehavior Members
 
-		public object Fly()
-		{
-			return "I'm flying with a rocket!";
-		}
+        public object Fly()
+        {
+            return "I'm flying with a rocket!";
+        }
 
-		#endregion
-	}
+        #endregion
+    }
 }

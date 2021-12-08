@@ -2,8 +2,8 @@
 
 namespace ComponentsMediator
 {
-	public class ProductChangedEventArgs : EventArgs
-	{
-		public Product Product { get; set; }
-	}
+    public class ProductChangedEventArgs : EventArgs
+    {
+        public Product Product { get; set; }
+    }
 }

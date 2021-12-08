@@ -44,10 +44,10 @@ namespace DataSerialization
 
         [XmlAttribute("CustomerID")]
         public Guid ID
-	    {
-		    get { return _ID;}
-		    set { _ID = value;}
-	    }
+        {
+            get { return _ID;}
+            set { _ID = value;}
+        }
 
         [XmlArray("ContactNumbers")]
         [XmlArrayItem("Number")]

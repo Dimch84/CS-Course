@@ -2,21 +2,21 @@ using System;
 
 namespace Strategy.Duck
 {
-	/// <summary>
-	/// FlyWithWings
-	/// </summary>
-	public class FlyWithWings : IFlyBehavior
-	{
-		public FlyWithWings()
-		{}
+    /// <summary>
+    /// FlyWithWings
+    /// </summary>
+    public class FlyWithWings : IFlyBehavior
+    {
+        public FlyWithWings()
+        {}
 
-		#region IFlyBehavior Members
+        #region IFlyBehavior Members
 
-		public object Fly()
-		{
-			return "I'm flying!!";
-		}
+        public object Fly()
+        {
+            return "I'm flying!!";
+        }
 
-		#endregion
-	}
+        #endregion
+    }
 }

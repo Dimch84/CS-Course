@@ -1,13 +1,13 @@
 ﻿namespace ComponentsMediator
 {
-	public class ProductChangeInitiator
-	{
-		public ProductChangeInitiator(int selectedProductId)
-		{
-			SelectedProductId = selectedProductId;			
-		}
+    public class ProductChangeInitiator
+    {
+        public ProductChangeInitiator(int selectedProductId)
+        {
+            SelectedProductId = selectedProductId;            
+        }
 
-		public int SelectedProductId { get; set; }
+        public int SelectedProductId { get; set; }
 
-	}
+    }
 }
