@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+	<Table Name="CUSTOM_COMMANDS">
+	</Table>
+	<Table Name="PRODUCTS">
+		<Command Name="GetAllProducts">
+			select ProductId, Name, Description, Icon from [dbo].[Products]
+		</Command>
+		<Command Name="GetProductById">
+			select ProductId, Name, Description, Icon from [dbo].[Products] where ProductId=@productId
+		</Command>
+	</Table>
+	<Table Name="IMAGES">
+		<Command Name="GetByProduct">
+			select img.ImageId, img.Data from [dbo].[Images] img
+			inner join [dbo].[ProductImages] prodImg on img.ImageId = prodImg.ImageId
+			where prodImg.ProductId = @productId
+		</Command>
+	</Table>
+</Root>
