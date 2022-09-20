@@ -211,10 +211,10 @@ namespace GenericsPerfs
         {
             Stack stack = new Stack();
 
-            stack.Push ("1");
-            stack.Push ("2");
-            stack.Push ("3");
-            stack.Push ("4");
+            stack.Push("1");
+            stack.Push("2");
+            stack.Push("3");
+            stack.Push("4");
 
             string temp = String.Empty;
 
@@ -222,7 +222,7 @@ namespace GenericsPerfs
 
             for(long i = 0;i < iteration;i ++)
             {
-                stack.Push ("AAAAA");
+                stack.Push("AAAAA");
                 temp = (string)stack.Pop();
             }
         }
@@ -242,7 +242,7 @@ namespace GenericsPerfs
 
             for(long i = 0;i < iteration;i ++)
             {
-                stack.Push ("AAAAA");
+                stack.Push("AAAAA");
                 temp = stack.Pop();
             }
         }
