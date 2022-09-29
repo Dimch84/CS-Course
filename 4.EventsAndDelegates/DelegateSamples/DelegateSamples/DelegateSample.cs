@@ -22,7 +22,7 @@ namespace DelegateSamples
             int total = delOb(10, 20);
             Assert.AreEqual(30, total);
 
-            //Alternative way to calculate the aggregate of the numbers.
+            //Alternative way to call calculation
             total = delOb.Invoke(25, 75);
             Assert.AreEqual(100, total);
         }
