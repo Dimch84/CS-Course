@@ -11,6 +11,11 @@ namespace ConsoleKeyEvent
 
         public void PressKeyAEvent()
         {
+            OnPressKeyA();
+        }
+
+        protected virtual void OnPressKeyA()
+        {
             PressKeyA?.Invoke();
         }
 

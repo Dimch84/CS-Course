@@ -24,11 +24,14 @@ namespace EventsAndDelegates
         //MSDN Convention, should be protected, virtual and void, and should start with the word on and then the name of the event
         protected virtual void OnVideoEncoded(Video video)
         {
-            if(VideoEncoded != null)
-            {
-                //VideoEncoded(this, EventArgs.Empty);
-                VideoEncoded(this, new VideoEventArgs() { Video = video });
-            }
+            VideoEncoded?.Invoke(this, new VideoEventArgs() { Video = video });
+
+            // legacy alternative:
+            //if (VideoEncoded != null)
+            //{
+            //    //VideoEncoded(this, EventArgs.Empty);
+            //    VideoEncoded(this, new VideoEventArgs() { Video = video });
+            //}
         }
     }
 }

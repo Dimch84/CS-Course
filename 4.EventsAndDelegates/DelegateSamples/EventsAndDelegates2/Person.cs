@@ -110,7 +110,7 @@ namespace EventsAndDelegates
 
         #endregion
 
-        private void OnWorkPerformed(int hours, DateTime d)
+        protected void OnWorkPerformed(int hours, DateTime d)
         {
             if (WorkPerformed != null)
             {
