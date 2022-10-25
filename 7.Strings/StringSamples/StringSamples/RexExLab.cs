@@ -19,7 +19,7 @@ namespace StringSamples
         public const string pattern = "[aeiouy]";
 
         // Find the count of all vowels in a given text using a regex.
-        [TestCase("Abraham Lincoln")]
+        [TestCase("John Snow")]
         [TestCase("n vwls.")]
         public void Test2_VowelCount(string input)
         {

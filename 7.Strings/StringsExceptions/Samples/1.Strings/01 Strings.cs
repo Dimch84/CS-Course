@@ -10,7 +10,7 @@ namespace Samples.Strings
 {
     class _01_Strings
     {
-        static void Main(String[] args)
+        static void _Main(String[] args)
         {
             try
             {

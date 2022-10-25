@@ -144,11 +144,11 @@ namespace StringSamples
         [TestCase(10, 7)]
         [TestCase(125, 5)]
         [TestCase(1000, 4)]
-        public void Test6_Convert_Base10_to_BaseN(BigInteger tenBased, int newBase)
+        public void Test6_Convert_Base10_to_BaseN(int tenBased, int newBase)
         {
             Console.WriteLine(ConvertToBase(tenBased, newBase));
         }
-        private static BigInteger ConvertToBase(BigInteger tenBased, int newBase)
+        private static int ConvertToBase(int tenBased, int newBase)
         {
             if (newBase < 2 || newBase > 10)
             {
@@ -163,7 +163,7 @@ namespace StringSamples
                 tenBased /= newBase;
             }
 
-            return BigInteger.Parse(sb.ToString());
+            return Int32.Parse(sb.ToString());
         }
 
         // Write a program to find how many times a given string appears in a given text as substring
@@ -182,7 +182,7 @@ namespace StringSamples
             Console.WriteLine(occurances);
         }
 
-        // You are given two lines - each can be a really big number (0 to 1050). 
+        // You are given two lines - each can be a really big number. 
         // You must display the sum of these numbers.
         [TestCase("123456789000000", "876543210000000")]
         public void Test8_SumBigNumbers(string first, string second)
@@ -296,9 +296,9 @@ namespace StringSamples
 
         // Write a program to extract all hyperlinks (<href=…>) from a given text
         [TestCase("<a href=\"http://google.ru\" class=\"new\"></a>")]
-        public void Test11_ExtractHyperlinks(string inpulLine)
+        public void Test11_ExtractHyperlinks(string inputLine)
         {
-            var hyperlinks = ExtractLinks(inpulLine);
+            var hyperlinks = ExtractLinks(inputLine);
 
             if (hyperlinks.Count > 0)
             {
@@ -306,9 +306,9 @@ namespace StringSamples
             }
         }
 
-        private static List<string> ExtractLinks(string inpulLine)
+        private static List<string> ExtractLinks(string inputLine)
         {
-            var html = ReadInput(inpulLine);
+            var html = ReadInput(inputLine);
             var startIndex = html.IndexOf(" href");
             var links = new List<string>();
 

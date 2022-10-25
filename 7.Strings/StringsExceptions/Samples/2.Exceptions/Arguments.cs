@@ -3,7 +3,6 @@ using System.Collections;
 using System.Linq.Expressions;
 using System.Reflection;
 using Samples.Exceptions;
-// ReSharper disable PossibleMultipleEnumeration
 
 static internal class Arguments
 {

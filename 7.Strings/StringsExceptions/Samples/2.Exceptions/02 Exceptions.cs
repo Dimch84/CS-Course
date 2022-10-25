@@ -11,7 +11,7 @@ namespace Samples.Exceptions
     {
         private static List<Exception> s_exceptions = new List<Exception>();
 
-        static void _Main(String[] args)
+        public static void Main(String[] args)
         {
             HandleExceptions(() => Arguments.NotNullOrEmpty(() => args));
 
@@ -46,7 +46,7 @@ namespace Samples.Exceptions
                 if (s_exceptions.Count == 1)
                 {
                     ExceptionDispatchInfo dispatchInfo = ExceptionDispatchInfo.Capture(s_exceptions[0]);
-                    dispatchInfo.Throw();
+                    ThrowDispEx(dispatchInfo);
                 }
                 else
                 {
@@ -58,6 +58,11 @@ namespace Samples.Exceptions
                 Console.WriteLine("---------------");
                 Console.WriteLine("Someting went wrong: " + ex);
             }
+        }
+
+        private static void ThrowDispEx(ExceptionDispatchInfo dispatchInfo)
+        {
+            dispatchInfo.Throw();
         }
 
         static void HandleExceptions(Action action)
