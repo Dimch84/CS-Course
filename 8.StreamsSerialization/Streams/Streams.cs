@@ -198,30 +198,6 @@ Or bends with the remover to remove";
             Decompress(zippedFile, unZippedFile);
         }
 
-        static void Decompress(string inputFile, string outputFile)
-        {
-            using (var inputStream = new FileStream(inputFile, FileMode.Open))
-            {
-                using (var compressionStream = new GZipStream(inputStream, CompressionMode.Decompress, false))
-                {
-                    using (var outputStream = new FileStream(outputFile, FileMode.Create))
-                    {
-                        byte[] buffer = new byte[4096];
-                        while (true)
-                        {
-                            int readBytes = compressionStream.Read(buffer, 0, buffer.Length);
-                            if (readBytes == 0)
-                            {
-                                break;
-                            }
-
-                            outputStream.Write(buffer, 0, readBytes);
-                        }
-                    }
-                }
-            }
-        }
-
         static void Compress(string inputFile, string outputFile)
         {
             using (var inputStream = new FileStream(inputFile, FileMode.Open))
@@ -246,6 +222,30 @@ Or bends with the remover to remove";
             }
         }
 
+        static void Decompress(string inputFile, string outputFile)
+        {
+            using (var inputStream = new FileStream(inputFile, FileMode.Open))
+            {
+                using (var compressionStream = new GZipStream(inputStream, CompressionMode.Decompress, false))
+                {
+                    using (var outputStream = new FileStream(outputFile, FileMode.Create))
+                    {
+                        byte[] buffer = new byte[4096];
+                        while (true)
+                        {
+                            int readBytes = compressionStream.Read(buffer, 0, buffer.Length);
+                            if (readBytes == 0)
+                            {
+                                break;
+                            }
+
+                            outputStream.Write(buffer, 0, readBytes);
+                        }
+                    }
+                }
+            }
+        }
+
         [Test]
         public void Test8_AppendToFile()
         {
@@ -259,7 +259,7 @@ Or bends with the remover to remove";
                 fileWriter.Write(array, 0, array.Length);
             }
 
-            // alternative. with possibility to replace data from the middle
+            // alternative way
             using (var fileWriter = new FileStream(filePath, FileMode.OpenOrCreate))
             {
                 long fileDataLength = fileWriter.Length;
@@ -267,26 +267,5 @@ Or bends with the remover to remove";
                 fileWriter.Write(array, 0, array.Length);
             }
         }
-
-        [Test]
-        public void Test9()
-        {
-
-        }
-
-        [Test]
-        public void Test10()
-        {
-
-        }
-
-        /*
-                [Test]
-                public void Test3()
-                {
-
-                }
-        */
-
     }
 }

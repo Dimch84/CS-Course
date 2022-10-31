@@ -130,7 +130,7 @@ namespace DataSerialization
             Car c = new Car();
             c.Make = "VW";
             c.Model = "Touareg";
-            c.Year = 2021;
+            c.Year = 2023;
 
             Console.WriteLine("Serializing Car to XML using IXmlSerializable interface members");
             XmlSerializer s = new XmlSerializer(typeof(Car));

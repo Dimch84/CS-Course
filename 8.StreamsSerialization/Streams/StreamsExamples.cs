@@ -103,7 +103,7 @@ namespace StreamsSerialization
         [Test]
         public void Test2_DirectoryTraversal()
         {
-            var files = GetFilesFromDirectory(@"..\..\..\..\StreamsSerialization");
+            var files = GetFilesFromDirectory(@"C:\Temp");
 
             SaveReport(files, TestFilePath);
         }
@@ -141,73 +141,15 @@ namespace StreamsSerialization
                 foreach (var group in files
                     .OrderByDescending(g => g.Value.Count).ThenBy(g => g.Key))
                 {
-                    var filesInGroup = string.Join(Environment.NewLine, group.Value
-                        .OrderByDescending(f => f.Value)
-                        .Select(kvp => $"--{kvp.Key} - {kvp.Value}kb"));
+                    var filesInGroup = string.Join(Environment.NewLine, 
+                        group.Value
+                            .OrderByDescending(f => f.Value)
+                            .Select(kvp => $"--{kvp.Key} - {kvp.Value}kb")
+                        );
 
                     writer.Write($"{group.Key}{Environment.NewLine}{filesInGroup}{Environment.NewLine}");
                 }
             }
-        }
-
-        [Test]
-        public void Test3()
-        {
-
-        }
-
-        [Test]
-        public void Test4()
-        {
-
-        }
-
-        [Test]
-        public void Test5()
-        {
-
-        }
-
-        [Test]
-        public void Test6()
-        {
-
-        }
-
-        [Test]
-        public void Test7()
-        {
-
-        }
-
-        [Test]
-        public void Test8()
-        {
-
-        }
-
-        [Test]
-        public void Test9()
-        {
-
-        }
-
-        [Test]
-        public void Test10()
-        {
-
-        }
-
-        [Test]
-        public void Test11()
-        {
-
-        }
-
-        [Test]
-        public void Test12()
-        {
-
         }
     }
 }

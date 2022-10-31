@@ -19,14 +19,14 @@ namespace TestSerialization
                 new Person("Eugene", Gender.Woman, 65, "e@gmail.com"),
                 new Person("Frank", Gender.Man, 34, "f@yahoo.com"),
                 new Person("Glen", Gender.etc, 32, "g@gmail.com"),
-                new Person("Hank", Gender.Man, 21, "h@yahoo.com"),
+                new Person("Hank", Gender.Man, 21, "h@yahoo.com")
             };
 
             Company microsoft = new Company("Microsoft");
             Company apple = new Company("Apple");
 
             people.ForEach(x => {
-                if (x.Age < people.Average(a => a.Age))
+                if (x.Age > people.Average(a => a.Age))
                     x.SetCompany(microsoft);
                 else
                     x.SetCompany(apple);

@@ -53,10 +53,5 @@ namespace TestSerialization
         {
             return $"{Id.ToString().Substring(0, 5)}_{Name}: {Gender}, {Age}, {Email}";
         }
-
-        public override int GetHashCode()
-        {
-            return base.GetHashCode();
-        }
     }
 }
