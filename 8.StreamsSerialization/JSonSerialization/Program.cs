@@ -76,7 +76,7 @@ namespace TestSerialization
                 var startMemory = GC.GetTotalMemory(true);
                 
                 string dataStr = streamReader.ReadToEnd();
-                T result =  JsonConvert.DeserializeObject<T>(dataStr);
+                T result = JsonConvert.DeserializeObject<T>(dataStr);
 
                 var endMemory = GC.GetTotalMemory(true);
                 Console.WriteLine($"Total memory used: {endMemory - startMemory}");

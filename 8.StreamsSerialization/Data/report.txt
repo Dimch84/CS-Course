@@ -1,0 +1,28 @@
+.txt
+--C:\Temp\tmp.txt - 13706kb
+--C:\Temp\mytext.txt - 1059kb
+--C:\Temp\mytext2.txt - 931kb
+--C:\Temp\a.txt - 508kb
+--C:\Temp\Orders.txt.txt - 312kb
+--C:\Temp\TextFile.txt - 32kb
+--C:\Temp\NewFile.txt - 3kb
+.json
+--C:\Temp\map100.json - 20231kb
+--C:\Temp\t1.json - 20225kb
+--C:\Temp\tst.json - 251kb
+
+--C:\Temp\a - 3641kb
+.csv
+--C:\Temp\aa.csv - 30kb
+.exe
+--C:\Temp\SoapUI-x64-5.7.0.exe - 219632512kb
+.jpg
+--C:\Temp\Cat.jpg - 49251kb
+.js
+--C:\Temp\Purchase.js - 540kb
+.pdf
+--C:\Temp\Одноминутный менеджер и Обезьяны. Бланшар Кен..pdf - 4149638kb
+.png
+--C:\Temp\Cat.png - 632347kb
+.py
+--C:\Temp\test.py - 583kb
