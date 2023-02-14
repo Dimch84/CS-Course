@@ -16,6 +16,7 @@ namespace ThreadsNetFramework
             catch (Exception exc)
             {
                CustomLogger.LogMessage("Thread1: exc '{0}'", exc.Message);
+                // Thread Abort перебрасывается дальше
             }
             // эта строка не будет выведена:
             CustomLogger.LogMessage("Thread1: end");

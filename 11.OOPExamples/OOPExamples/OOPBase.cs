@@ -47,7 +47,7 @@ namespace OOPBase
             {
                 Console.WriteLine("Derived.Foo(int)");
             }
-            public void Foo(object o)
+            public void Foo(double o)//(object o)
             {
                 Console.WriteLine("Derived.Foo(object)");
             }
@@ -57,6 +57,7 @@ namespace OOPBase
         public void Test2()
         {
             Base d = new Derived();
+            //Derived d = new Derived();
             int i = 10;
             d.Foo(i);
         }
